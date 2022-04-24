@@ -1,0 +1,15 @@
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\alfaTeste.exe
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\alfaTeste.deps.json
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\alfaTeste.runtimeconfig.json
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\alfaTeste.dll
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\ref\alfaTeste.dll
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\alfaTeste.pdb
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.csproj.AssemblyReference.cache
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.AssemblyInfoInputs.cache
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.AssemblyInfo.cs
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.csproj.CoreCompileInputs.cache
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.dll
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\ref\alfaTeste.dll
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.pdb
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\obj\Release\net6.0\alfaTeste.genruntimeconfig.cache

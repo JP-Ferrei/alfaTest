@@ -1,0 +1,5 @@
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\publish\alfaTeste.exe
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\publish\alfaTeste.dll
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\publish\alfaTeste.deps.json
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\publish\alfaTeste.runtimeconfig.json
+D:\Dev\projetos\C#\alfaTeste\alfaTeste\bin\Release\net6.0\publish\alfaTeste.pdb
